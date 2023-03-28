@@ -12,6 +12,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "ts-loader": "^9.4.2",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
@@ -41,7 +42,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.ts",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/krish221997/event-link-test.git"
@@ -50,6 +50,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/krish221997/event-link-test/issues"
-  },
-  "homepage": "https://github.com/krish221997/event-link-test#readme"
+  }
 }
